@@ -1,0 +1,50 @@
+
+#navigation
+color=-10027008
+item-link-1=multiplication.worm/home
+item-label-1=Home
+item-icon-1=EARTH
+item-link-2=multiplication.worm/answers
+item-label-2=Answers
+item-icon-2=FORBIDDEN
+
+
+
+
+Worm's Multiplication Answers.
+
+
+#header
+text=About
+align=left
+
+&r
+#download
+file-app=gitwebbuilder.gitwebbuilder_app
+file-data={content:"&4&lHow to use multiplication.worm:\\n&rGo to multiplication.worm,\\nClick on pages,\\nClick answers,\\nThat's it!"}
+file-name=multiplicationuse
+text=How to use this Website,
+
+&rPretty much it is just a list of answers to
+multiplication problems. To get there go to 
+multiplication.worm/answers or click on the 
+&9Pages &r tab.
+
+
+
+#header
+text=Contact wworm
+align=left
+
+&r&dDiscord: &nwworm#4577
+&r&3Twitter: &n@wworm4
+&r&cDiscord Server: &ndiscord.gg/yZTeWq8
+&r&6Email: &nwworm@wormmc.us
+
+&r
+
+
+#footer
+title=Worm's Multiplication Answers
+sub-title=created by wworm
+home-page=multiplication.worm
